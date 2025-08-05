@@ -1,2 +1,65 @@
 # HTML-Website
-My First local HTML Website Project that is purely HTML and a little bit of CSS.
+
+Hi y'all! This is my First local HTML Website Project that is purely HTML and a little bit of CSS. 
+This is my first coding project so bare with me when you look at my code lol.
+
+Overview:
+- Creating my own main website
+  - Header
+    - Adding an image
+    - Adding a certain font
+    - Title of the website: Sriram Deevi's Website
+  - Validate website
+  - Divider
+  - Body
+    - Title with my name and nickname
+    - Header one
+      - About me
+    - Paragraph
+       - About Me paragraph
+    - Paragraph
+      - 3 forms sentence
+    - Validate website
+    - 3 images horizontally
+  - Validate website
+  - Divider
+  - Button leadeing to subpage
+  - Validate website
+  - Divider
+  - Form for sending contact information
+    - Name: First and last
+    - Password:
+    - Phone Number:
+    - Email:
+    - Questionnaire:
+    - Submit and reset button
+  - Validate website
+  - Divider
+  - footer
+    - Github link
+    - Instagram link
+    - Linkedin link
+    - horizontally spaced
+  - Validate website
+- Creating a subpage website
+  - Title: Previous Projects
+    - Image (left)
+    - Title of project
+    - Description (right)
+  - Validate website
+  - Divider
+  - Title: Previous Awards 
+    - Image
+    - Title of Previous award
+    - Description
+  - Validate website
+  - Divider
+  - Conferences Attended
+    - Image
+    - Title of conference
+    - Description
+  - Validate website
+  - Footer with my contact information
+    - Github, linkedin, and instagram
+  - Validate website
+- Project is finished yaaaaaaaaay!!!
